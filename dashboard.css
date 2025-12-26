@@ -1,0 +1,66 @@
+/* .dashboard {
+  padding: 40px;
+}
+
+.dashboard h1 {
+  font-size: 32px;
+  color: #0a2a43;
+  margin-bottom: 10px;
+}
+
+.dashboard h1 span {
+  color: #1976d2;
+}
+
+.dashboard h2 {
+  margin-top: 5px;
+  font-size: 22px;
+  color: #0a2a43;
+  margin-bottom: 20px;
+}
+
+
+#memories-container {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 10px;
+}
+
+.memory {
+    background: #ffffff;
+    padding: 18px;
+    border-radius: 14px;
+    border: 1px solid #e5e5e5;
+}
+
+.memory h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #222;
+    font-weight: 600;
+}
+
+.memory p {
+    margin-top: 8px;
+    color: #555;
+    font-size: 15px;
+}
+
+.memory img, 
+.memory video {
+    width: 100%;
+    max-height: 320px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-top: 14px;
+    margin-bottom: 10px;
+}
+
+.memory small {
+    display: block;
+    margin-top: 8px;
+    color: #888;
+    font-size: 13px;
+} */
